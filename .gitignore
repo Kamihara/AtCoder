@@ -152,3 +152,4 @@ ENV/
 .mypy_cache/
 
 .idea
+.swp
